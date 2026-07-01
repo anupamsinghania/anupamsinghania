@@ -119,6 +119,8 @@ Collection of practical prompt engineering use cases and AI productivity workflo
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamsinghania&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -151,7 +153,7 @@ Collection of practical prompt engineering use cases and AI productivity workflo
 
 ## 📊 Contribution Graph
 
-[![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamsinghania&theme=github-compact)](https://github.com/anupamsinghania)
+[[![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamsinghania&theme=github-compact)](https://github.com/anupamsinghania)](https://github-readme-activity-graph.vercel.app/graph?username=anupamsinghania&theme=github-compact)
 
 
 ---

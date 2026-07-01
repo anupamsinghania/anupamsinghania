@@ -2,6 +2,10 @@
   <img src="github-banner.png.png" alt="GitHub Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Business+Analyst;Data+Analyst;SQL+%7C+Python+%7C+Excel;Tableau+%7C+Power+BI;Transforming+Data+into+Business+Insights" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anupam Singhaniya</h1>
 
 <h3 align="center">
@@ -163,6 +167,3 @@ https://github.com/anupamsinghania
 
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Business+Analyst;Data+Analyst;SQL+%7C+Python+%7C+Excel;Tableau+%7C+Power+BI;Transforming+Data+into+Business+Insights" />
-</p>

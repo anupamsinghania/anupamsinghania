@@ -143,6 +143,10 @@ Collection of practical prompt engineering use cases and AI productivity workflo
 
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamsinghania&layout=compact&langs_count=8&hide_border=true"/>
+
+</p>
+
 ---
 
 ## 🤝 Connect with Me

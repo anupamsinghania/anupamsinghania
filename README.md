@@ -5,306 +5,161 @@
 <h1 align="center">Hi 👋, I'm Anupam Singhaniya</h1>
 
 <h3 align="center">
-Business Analyst • Data Analyst • Python • SQL • Excel • Tableau • Machine Learning
+Business Analyst | Data Analyst | Business Intelligence Enthusiast
 </h3>
 
 <p align="center">
-I enjoy transforming raw data into actionable business insights through analytics, visualization, and predictive modeling. I am passionate about solving business problems using data and continuously improving my analytical and technical skills.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/anupamsinghania">
-<img src="https://img.shields.io/badge/GitHub-anupamsinghania-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/anupam-singhaniya/">
-<img src="https://img.shields.io/badge/LinkedIn-Anupam%20Singhaniya-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:anupamsinghania0157@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
+Transforming Business Data into Actionable Insights through Analytics, Visualization & Data-Driven Decision Making.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💼 About Me
 
-🎓 Business Analytics enthusiast with practical experience in data analysis, visualization, machine learning, and business problem-solving.
+I am a Business Analytics postgraduate with a strong interest in solving business problems using data. I enjoy working with structured and unstructured datasets to uncover trends, build dashboards, automate reporting, and support strategic decision-making.
 
-📊 Passionate about converting complex datasets into meaningful insights that support business decisions.
+My focus is on developing practical analytical solutions using SQL, Python, Excel, Tableau, and Power BI while continuously improving my business intelligence and data storytelling skills.
 
-📈 Interested in:
+---
+
+## 💼 Areas of Interest
+
 - Business Analytics
 - Data Analytics
-- Product Analytics
 - Business Intelligence
-- Machine Learning
-- Decision Science
-
-🌱 Currently learning:
-- Advanced SQL
-- Product Analytics
-- A/B Testing
-- Statistics
-- Machine Learning
-- Cloud Fundamentals
-
-💼 Looking for opportunities as:
-- Business Analyst
-- Data Analyst
-- Business Intelligence Analyst
-- Analytics Associate
-
-📍 India
+- Dashboard Development
+- KPI Reporting
+- Data Visualization
+- Process Improvement
+- Decision Support Analytics
 
 ---
 
-# 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-## Programming
+### Programming & Query Languages
 
-- Python
 - SQL
+- Python
 
-## Data Analysis
+### Analytics & BI
 
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Validation
-
-## Data Visualization
-
+- Microsoft Excel
 - Tableau
 - Power BI
-- Matplotlib
-- Seaborn
-- Microsoft Excel
 
-## Machine Learning
-
-- Scikit-Learn
-- Regression
-- Classification
-- Clustering
-- Feature Engineering
-- Model Evaluation
-
-## Databases
+### Database
 
 - MySQL
 
-## Tools
+### Data Analysis
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Regression Analysis
+- Statistical Analysis
+- KPI Analysis
+
+### Version Control
 
 - Git
 - GitHub
-- VS Code
-- Jupyter Notebook
-- Microsoft Excel
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📊 Business Data Cleaning & Validation
+### 📊 Business Data Cleaning & Excel Reporting
+Business data cleaning, validation, preprocessing and reporting using Excel and Python.
 
-Designed a complete data cleaning workflow involving:
+### 📈 KPI Framework & Business Experiment Analysis
+Designed KPI dashboards and performed business experiment analysis to derive actionable recommendations.
 
-- Missing value handling
-- Duplicate removal
-- Data validation
-- Standardization
-- Business reporting
+### 📉 Regression Analysis for Business Insights
+Performed regression modeling, residual analysis and business interpretation using Python.
 
-**Tech Stack**
+### 📊 Interactive Tableau Dashboard
+Developed an interactive dashboard for business reporting and performance tracking using Tableau.
 
-Python • Pandas • Excel
+### 🤖 AI Solution Design
+Designed AI-powered business solutions by identifying opportunities, use cases and implementation strategies.
 
----
-
-## 📈 KPI Framework & Business Experiment Analysis
-
-Developed business KPIs and evaluated experiment outcomes to support decision-making.
-
-Highlights:
-
-- KPI calculation
-- Business metrics
-- Performance analysis
-- Recommendations
-
-**Tech Stack**
-
-Python • Excel • Statistics
+### 💡 Prompt Engineering Portfolio
+Collection of practical prompt engineering use cases and AI productivity workflows.
 
 ---
 
-## 📉 Regression Analysis & Business Forecasting
+## 📚 Currently Learning
 
-Built regression models to understand relationships between variables and generate business insights.
-
-Highlights:
-
-- Correlation Analysis
-- Regression Modeling
-- Residual Analysis
-- Performance Evaluation
-
-**Tech Stack**
-
-Python • Scikit-Learn • Matplotlib
-
----
-
-## 📊 Interactive Tableau Dashboard
-
-Created interactive dashboards with filters, KPIs, and business performance visualizations.
-
-Highlights:
-
-- KPI Dashboard
-- Interactive Filters
-- Trend Analysis
-- Executive Reporting
-
-**Tech Stack**
-
-Tableau
-
----
-
-## 🤖 Machine Learning Projects
-
-Implemented end-to-end machine learning workflows including:
-
-- Data preprocessing
-- Feature engineering
-- Classification
-- Regression
-- Model evaluation
-
-**Libraries**
-
-Scikit-Learn • Pandas • NumPy
-
----
-
-## 🧠 Deep Learning Projects
-
-Built introductory deep learning applications involving:
-
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-- CNN
-- Sequence Modeling
-
-**Frameworks**
-
-TensorFlow • Keras
-
----
-
-# 📚 Coursework
-
-During my Business Analytics and AI learning journey, I completed projects involving:
-
-- Python Programming
-- SQL
-- Excel Analytics
-- Data Cleaning
-- Business Reporting
-- Tableau Dashboards
+- Advanced SQL
 - Power BI
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- NLP
-- Prompt Engineering
-- AI Solution Design
+- Business Intelligence
+- Data Storytelling
+- Machine Learning for Analytics
 
 ---
 
-# 📈 GitHub Statistics
+## 🧰 Tools & Technologies
 
-<p align="center">
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anupamsinghania&show_icons=true&theme=default"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamsinghania"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+## 📈 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamsinghania&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anupamsinghania&show_icons=true&theme=default&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamsinghania&theme=default&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamsinghania&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📌 Current Focus
-
-✔ Business Analytics
-
-✔ Data Analytics
-
-✔ SQL
-
-✔ Python
-
-✔ Tableau
-
-✔ Machine Learning
-
-✔ Dashboard Development
-
-✔ Business Intelligence
-
----
-
-# 🎯 Career Objective
-
-I aspire to build a career in Business Analytics where I can combine analytical thinking, business understanding, and technical expertise to solve real-world business problems. I enjoy transforming raw data into meaningful insights that help organizations make informed decisions and improve business performance.
-
----
-
-# 🤝 Let's Connect
+## 🤝 Connect with Me
 
 📧 **Email**
 
 anupamsinghania0157@gmail.com
 
-🔗 **LinkedIn**
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/anupam-singhaniya/
 
-🐙 **GitHub**
+💻 **GitHub**
 
 https://github.com/anupamsinghania
 
 ---
 
-# 💡 Fun Fact
-
-I enjoy exploring datasets, building dashboards, experimenting with machine learning models, and continuously learning new analytical tools and techniques.
-
----
-
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile!
-
-If you find my projects interesting, feel free to connect or explore my repositories.
+⭐ Thank you for visiting my profile!
 
 </p>
+

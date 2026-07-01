@@ -149,6 +149,13 @@ Collection of practical prompt engineering use cases and AI productivity workflo
 
 ---
 
+## 📊 Contribution Graph
+
+[![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamsinghania&theme=github-compact)](https://github.com/anupamsinghania)
+
+
+---
+
 ## 🤝 Connect with Me
 
 📧 **Email**
